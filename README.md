@@ -1,4 +1,4 @@
-
+![logo](https://github.com/aranade02/aranade02/blob/main/IwWDmi.webp)
 <h1 align="center">Hi 👋, I'm Akanksha Ranade</h1>
 <h3 align="center">A Computer Engineering Student</h3>
 
